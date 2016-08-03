@@ -11,15 +11,15 @@ class: center, middle, inverse
 
 ???
 
-* https://github.com/lukecarbis/hooked
+* 79% of smart phone owners check their device within 15 minutes of waking up
+* It's estimated that the average smart phone user checks their device 150 times per day
+* One third of Americans say that they would rather give up sex than their mobile phone
+
+We're hooked. Habit forming technology is here.
+
+The question now becomes, how can we use it?
 
 Habit forming products and services change the behaviour of our clients, and increase their engagement with our business.
-
-Habits:
-* Increase Customer Lifetime Value (CLTV)
-* Provide pricing flexibility
-* Supercharge growth
-* Sharpen your competitive edge (clients irrationally overvalue the old over the new)
 
 ---
 
@@ -52,15 +52,12 @@ class: center, middle
 
 ???
 
-* 79% of smart phone owners check their device within 15 minutes of waking up
-* It's estimated that the average smart phone user checks their device 150 times per day
-* One third of Americans say that they would rather give up sex than their mobile phone
+In this presentation we'll look at a model which will:
 
-We're hooked. Habit forming technology is here.
-
-The question now becomes, how can we use it?
-
-In this presentation we'll look at a model which helps us to understand the psychology of forming a habit.
+* Increase Customer Lifetime Value (CLTV)
+* Provide pricing flexibility
+* Supercharge growth
+* Sharpen your competitive edge (clients irrationally overvalue the old over the new)
 
 A trigger is the spark which ignites a behaviour. This is the first step in forming a habit.
 
@@ -316,6 +313,18 @@ This will loop back into action, reward, and investment.
 - Brainstorm a way of adding a small investment to your product or service which:
 	- Stores value
 	- Loads the next trigger
+
+---
+
+name: model
+class: center, middle
+
+# Hook Model
+
+### .trigger[Trigger]
+### .action[Action]
+### .reward[Reward]
+### .investment[Investment]
 
 ---
 
